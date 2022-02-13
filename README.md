@@ -20,5 +20,5 @@ Descrição:
 
 Como usar:
 
-Nesse repositório há uma diretorio chamado "Sailor Player", nele há o projeto do app.
+- Nesse repositório há uma diretorio chamado "Sailor Player", nele há o projeto do app.
 A versão "Debug" da aplicação está no repositório com nome de "app-debug.apk", basta instalar em um dispositivo android.
