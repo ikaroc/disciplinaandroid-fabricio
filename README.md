@@ -1,4 +1,6 @@
 # disciplinaandroid-fabricio
+[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio?hl=pt-br) [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/br/java/)
+
 Projeto desenvolvido pelo discente Fabrício na disciplina de Programação Android.
 
 Media Player desenvolvido no Android Studio. Segue os Principais recursos utilizados:
